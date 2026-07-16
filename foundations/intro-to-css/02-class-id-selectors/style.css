@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color: #F791AE; 
+    font-family: verdana, 'dejavu sans', sans-serif;
+}
+.odd-number.very-odd {font-size: 24px;}
+#number-two {
+    font-size: 36px;
+    color: #209FDF
+}
+#number-four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #9CEDB0;
+}
